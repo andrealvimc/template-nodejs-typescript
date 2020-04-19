@@ -1,4 +1,4 @@
-Olá amigos, resolvi criar esse template pos tive muita dor de cabeça para configurar o Eslint e o Prettier com TypeScript então resolvi criar esse mini-template que adianta bastante no inicio do projeto
+🤠 Olá amigos, resolvi criar esse template pos tive muita dor de cabeça para configurar o Eslint e o Prettier com TypeScript então resolvi criar esse mini-template que adianta bastante no inicio do projeto
 
 
 # 📔 Como utilizar esse template?
