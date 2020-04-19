@@ -3,6 +3,6 @@
 
 # 📔 Como utilizar esse template?
 
-1️⃣ Baixe clone esse repositorio ou clique em **[Aqui para usar o template]**(https://github.com/Andre-Alvim/template-nodejs-typescript/generate) <br>
+1️⃣ Baixe clone esse repositorio ou clique em *[Aqui para usar o template]*(https://github.com/Andre-Alvim/template-nodejs-typescript/generate) <br>
 2️⃣ Após efetuar o download desse template abra seu terminal e digite `yarn` ou se estiver usando o [npm](https://www.npmjs.com/) digite `npm install`.<br>
 3️⃣ Agora basta seguir em diante e começar a codar🚀!<br>
